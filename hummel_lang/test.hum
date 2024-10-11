@@ -1,0 +1,3 @@
+addFive :: Number a => a -> a
+addFive = + 5
+out addFive 10
